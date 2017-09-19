@@ -12,6 +12,8 @@ This is a word game based on the famous Software Engineer/IT job interview riddl
 *  The solution **must abide by the rule** that if the goose and the bag of rice are left alone together (without the farmer) the game ends and the player loses.
 *  The solution **must abide by the rule** that if the farmer gets all 3 resources to the opposite side of the river, the game ends and the player wins.
 
+#### *HINT:  It helps to solve the riddle before coding the solution!*
+
 ### That's it!  Have fun with it.
 
 
